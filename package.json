@@ -1,0 +1,15 @@
+{
+  "name": "xiaobao-video-copy",
+  "version": "1.0.0",
+  "private": false,
+  "description": "全平台视频解析开源页。粘贴分享链接，解析标题、封面、媒体地址，并提取口播文案。",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
